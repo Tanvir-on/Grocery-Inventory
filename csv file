@@ -1,0 +1,4 @@
+## csv file for this inventory system.
+
+
+item_name,item_price,item_quantity,item_category,item_expiry_date,item_availability
